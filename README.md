@@ -1,5 +1,5 @@
 # landing-page-sample-one
 
-# Demo : https://cyantechsolutions-lp-sample-one.netlify.app/
+# Demo : https://cyantechsolutions-lp-sample-1.netlify.app/
 
-![lp-sample1](https://user-images.githubusercontent.com/104098738/164312464-26de8632-6992-48ee-81ee-53d5dd85f712.png)
+![screencapture-cyantechsolutions-lp-sample-1-netlify-app-2022-04-20-17_26_26 (1)](https://user-images.githubusercontent.com/104098738/164335242-2ea70a3a-9767-4535-9401-1b3745e262f0.png)
